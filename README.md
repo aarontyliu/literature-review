@@ -1,4 +1,4 @@
-# literature-review
+# Literature Review
 Notes about how to do literature review
 
 
